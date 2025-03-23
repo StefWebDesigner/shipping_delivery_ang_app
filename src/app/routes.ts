@@ -1,6 +1,7 @@
 import { Component } from "@angular/core";
 import { HomeComponent } from "./components/home/home.component";
 import { DetailsComponent } from "./components/details/details.component";
+import { Routes } from "@angular/router";
 
 const routeConfig: Routes = [
     {
